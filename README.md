@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Eagle Eye Networks - Image Captioning Dataset
 
 Harpreet Singh | IIT Bombay
@@ -34,3 +35,7 @@ Built a dataset of 10,617 images with captions. Scraped images from Pexels API a
 - Initially tried medium size images from pexels but they were too small (20-30kb). Switched to large size which gave much better quality
 - Some captions are similar because similar looking images get similar descriptions. Could improve this with more diverse queries or using conditional prompting
 - The whole pipeline took about 4-5 hours total (2-3 hours scraping + 2 hours captioning)
+=======
+# Image-Data-Base-with-captions
+In this project i did make a Image and captions of the image data base by scarping the images from the internet and then generating captions for these images using a model called BLIP 
+>>>>>>> 5498eacbdb0a3c77190d391a88082f2a42060992
