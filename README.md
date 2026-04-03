@@ -21,7 +21,8 @@ Built a pipeline to create a 10,000+ image dataset with AI-generated captions, f
 | img_00567.jpg | a building with a glass door entrance |
 | img_01234.jpg | a city street at night with lights |
 
-Each image gets two captions — a basic one and a more detailed one using conditional prompting.
+Each image gets two captions - a basic one and a more detailed one using conditional prompting.
+![samples](samples.png)
 
 ## Categories
 
